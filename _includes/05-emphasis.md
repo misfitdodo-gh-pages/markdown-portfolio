@@ -1,0 +1,3 @@
+- Avid __Defi__ User
+- Aspiring __Smart Contract__ Programmer in the __Solidity__ Language
+- __New__ Parent
