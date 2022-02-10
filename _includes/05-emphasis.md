@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- Avid __Defi__ User
+- Aspiring __Smart Contract__ Programmer in the __Solidity__ Language
+- __New__ Parent
